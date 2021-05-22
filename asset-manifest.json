@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/simpleCart/static/css/main.7ceed772.chunk.css",
-    "main.js": "/simpleCart/static/js/main.2bb1571c.chunk.js",
-    "main.js.map": "/simpleCart/static/js/main.2bb1571c.chunk.js.map",
+    "main.js": "/simpleCart/static/js/main.d4c175cc.chunk.js",
+    "main.js.map": "/simpleCart/static/js/main.d4c175cc.chunk.js.map",
     "runtime-main.js": "/simpleCart/static/js/runtime-main.e6bbddcb.js",
     "runtime-main.js.map": "/simpleCart/static/js/runtime-main.e6bbddcb.js.map",
-    "static/js/2.0f32818f.chunk.js": "/simpleCart/static/js/2.0f32818f.chunk.js",
-    "static/js/2.0f32818f.chunk.js.map": "/simpleCart/static/js/2.0f32818f.chunk.js.map",
+    "static/js/2.3f805df4.chunk.js": "/simpleCart/static/js/2.3f805df4.chunk.js",
+    "static/js/2.3f805df4.chunk.js.map": "/simpleCart/static/js/2.3f805df4.chunk.js.map",
     "index.html": "/simpleCart/index.html",
     "static/css/main.7ceed772.chunk.css.map": "/simpleCart/static/css/main.7ceed772.chunk.css.map",
-    "static/js/2.0f32818f.chunk.js.LICENSE.txt": "/simpleCart/static/js/2.0f32818f.chunk.js.LICENSE.txt",
+    "static/js/2.3f805df4.chunk.js.LICENSE.txt": "/simpleCart/static/js/2.3f805df4.chunk.js.LICENSE.txt",
     "static/media/camera.82801480.png": "/simpleCart/static/media/camera.82801480.png"
   },
   "entrypoints": [
     "static/js/runtime-main.e6bbddcb.js",
-    "static/js/2.0f32818f.chunk.js",
+    "static/js/2.3f805df4.chunk.js",
     "static/css/main.7ceed772.chunk.css",
-    "static/js/main.2bb1571c.chunk.js"
+    "static/js/main.d4c175cc.chunk.js"
   ]
 }
