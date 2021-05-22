@@ -45,7 +45,7 @@ const AddProductPage = () => {
 
 
     const handleSave = (e) => {
-        if (productName === "" || productPrice === "" || productDescription === "" || imageFile === null) {
+        if (productName === "" || productPrice === "" || productDescription === "") {
             alert("some fields are left empty")
         } else {
             setLoading(true)
@@ -69,7 +69,7 @@ const AddProductPage = () => {
                             setProductId("")
                             setLoading(false)
                             e.preventDefault();
-                            window.location.href = '/';
+                            window.location.href = '/simpleCart/#/';
                         })
                     })
                 } else {
@@ -86,7 +86,7 @@ const AddProductPage = () => {
                         setProductId("")
                         setLoading(false)
                         e.preventDefault();
-                        window.location.href = '/';
+                        window.location.href = '/simpleCart/#/';
                     })
                 }
             } else {
@@ -112,7 +112,7 @@ const AddProductPage = () => {
                             setProductPrice("")
                             setLoading(false)
                             e.preventDefault();
-                            window.location.href = '/';
+                            window.location.href = '/simpleCart/#/';
                         })
                         .catch((error) => {
                             setLoading(false)
