@@ -135,11 +135,14 @@ const ButtonsContainer = styled.div`
 const ImageContainer = styled.div`
     display:flex;
     justify-content:center;
-    padding-right:20px;
+    margin-right:20px;
+    border-radius: 5px;
+    box-shadow: 2px 0px 16px -9px rgba(0,0,0,0.75);
 `
 
 const Image = styled.img`
     width:100px;
+    border-radius: 5px;
 `
 const DeleteButton = styled(RiDeleteBin5Line)`
     color:red;

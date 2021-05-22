@@ -90,6 +90,7 @@ const Wrapper = styled.div`
 const ProductsContainer = styled.div`
     display:flex;
     flex-wrap:wrap;
+    padding-bottom: 100px;
 `
 
 const LoaderContainer = styled.div`
